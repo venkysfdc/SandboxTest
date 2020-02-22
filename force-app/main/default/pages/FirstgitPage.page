@@ -1,6 +1,6 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
   <h1>Congratulations</h1>
-  This is my Page with Github
+  This is my Page with Github 2nd Test
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
